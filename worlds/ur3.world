@@ -11,7 +11,7 @@
     </include>
 
     <include>
-      <uri>model://ur16e</uri>
+      <uri>model://ur3</uri>
     </include>
 
     <!--<physics type="ode">
