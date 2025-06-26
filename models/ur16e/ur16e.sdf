@@ -128,7 +128,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://ur_description/meshes/ur16e/collision/upperarm.stl</uri>
+            <uri>model://ur16e//meshes/collision/upperarm.stl</uri> 
           </mesh>
         </geometry>
       </collision>
@@ -137,7 +137,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://ur_description/meshes/ur16e/visual/upperarm.dae</uri>
+            <uri>model://ur16e//meshes/visual/upperarm.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -181,7 +181,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://ur_description/meshes/ur16e/collision/forearm.stl</uri>
+            <uri>model://ur16e/meshes/collision/forearm.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -190,7 +190,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://ur_description/meshes/ur16e/visual/forearm.dae</uri>
+            <uri>model://ur16e//meshes/visual/forearm.dae</uri>
           </mesh>
         </geometry>
       </visual>
